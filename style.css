@@ -1,0 +1,17 @@
+.popup{
+    position:absolute;
+    z-index: 100;
+    background: #eeeeee;
+    border-radius:1em;
+    padding:1em;
+    max-width: 30em;
+    overflow: scroll;
+    display:flex;
+    flex-direction: column;
+}
+
+textarea{
+    border:none;
+    min-height: 5em;
+    width:80%;
+}
