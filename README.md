@@ -1,5 +1,5 @@
 # LLM endpoint demo
 
-![step1](images/step1.png)
-![step2](images/step2.png)
-![step3](images/step3.png)
+![step1](Images/step1.png)
+![step2](Images/step2.png)
+![step3](Images/step3.png)
